@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cybertruck](https://cnet3.cbsistatic.com/img/p-cVNNHPqSjzC9E7e7TiFexzbYc=/940x0/2019/11/22/be3bde1a-2501-40a9-b9c9-88df383f9f22/cybertruck-gal-promo.jpg)
